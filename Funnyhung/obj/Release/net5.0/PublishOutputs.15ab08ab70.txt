@@ -1,0 +1,5 @@
+F:\Funny Code\pushlish\Funnyhung.exe
+F:\Funny Code\pushlish\Funnyhung.dll
+F:\Funny Code\pushlish\Funnyhung.deps.json
+F:\Funny Code\pushlish\Funnyhung.runtimeconfig.json
+F:\Funny Code\pushlish\Funnyhung.pdb

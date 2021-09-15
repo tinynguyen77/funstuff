@@ -1,0 +1,16 @@
+F:\Funny Code\Funny\Funnyhung\bin\Release\net5.0\Funnyhung.exe
+F:\Funny Code\Funny\Funnyhung\bin\Release\net5.0\Funnyhung.deps.json
+F:\Funny Code\Funny\Funnyhung\bin\Release\net5.0\Funnyhung.runtimeconfig.json
+F:\Funny Code\Funny\Funnyhung\bin\Release\net5.0\Funnyhung.runtimeconfig.dev.json
+F:\Funny Code\Funny\Funnyhung\bin\Release\net5.0\Funnyhung.dll
+F:\Funny Code\Funny\Funnyhung\bin\Release\net5.0\ref\Funnyhung.dll
+F:\Funny Code\Funny\Funnyhung\bin\Release\net5.0\Funnyhung.pdb
+F:\Funny Code\Funny\Funnyhung\obj\Release\net5.0\Funnyhung.csproj.AssemblyReference.cache
+F:\Funny Code\Funny\Funnyhung\obj\Release\net5.0\Funnyhung.GeneratedMSBuildEditorConfig.editorconfig
+F:\Funny Code\Funny\Funnyhung\obj\Release\net5.0\Funnyhung.AssemblyInfoInputs.cache
+F:\Funny Code\Funny\Funnyhung\obj\Release\net5.0\Funnyhung.AssemblyInfo.cs
+F:\Funny Code\Funny\Funnyhung\obj\Release\net5.0\Funnyhung.csproj.CoreCompileInputs.cache
+F:\Funny Code\Funny\Funnyhung\obj\Release\net5.0\Funnyhung.dll
+F:\Funny Code\Funny\Funnyhung\obj\Release\net5.0\ref\Funnyhung.dll
+F:\Funny Code\Funny\Funnyhung\obj\Release\net5.0\Funnyhung.pdb
+F:\Funny Code\Funny\Funnyhung\obj\Release\net5.0\Funnyhung.genruntimeconfig.cache

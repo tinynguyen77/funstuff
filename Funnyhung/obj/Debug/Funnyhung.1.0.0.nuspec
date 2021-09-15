@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Funnyhung</id>
+    <version>1.0.0</version>
+    <authors>Funnyhung</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\Funny Code\Funny\Funnyhung\bin\Debug\net5.0\Funnyhung.runtimeconfig.json" target="lib\net5.0\Funnyhung.runtimeconfig.json" />
+    <file src="F:\Funny Code\Funny\Funnyhung\bin\Debug\net5.0\Funnyhung.dll" target="lib\net5.0\Funnyhung.dll" />
+  </files>
+</package>
